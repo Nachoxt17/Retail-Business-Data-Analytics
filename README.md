@@ -19,7 +19,7 @@ This project delivers a detailed business data analysis for multiple retail stor
 - Recommendations for improving stock rotation, sales focus, and profitability.
 
 ## 📂 Files:
-- `Sample - Superstore.csv` — primary dataset.
+- `retail_stores_chain_data.csv` — primary dataset.
 - `Retail_Business_Data_Analytics.ipynb` — Jupyter Notebook with complete analysis.
 
 ## ▶️ How to View & Run:
