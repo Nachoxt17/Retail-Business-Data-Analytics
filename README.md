@@ -23,6 +23,8 @@ This project delivers a detailed business data analysis for multiple retail stor
 - `Retail_Business_Data_Analytics.ipynb` — Jupyter Notebook with complete analysis.
 
 ## ▶️ How to View & Run:
+Click in the  `Retail_Business_Data_Analytics.ipynb` Jupyter Notebook in this repository (recommended for non-technical people)
+OR
 Access the **read-only executable version** of the notebook in Google Colab:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M-wQM0BJ14KdCz7nyyS10Bt-89xRMOem?usp=sharing)
